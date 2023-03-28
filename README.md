@@ -6,11 +6,11 @@
 
 # 🛠️ Abrir e rodar o projeto
 
-**Entrar no arquivo application.properties **
+**Entrar no arquivo application.properties**
 **Editar na primeira linha onde está escrito /estagiodb, substituir pelo nome do seu banco de dados**
 **Não se esqueça de alterar o login e a senha que estão nas linhas 2 e 3 respectivamente**
 
-# Rotas
+# Metodos
 
 <p>A api possui uma rota com todos os metodos http para cada entidade</p>
 
@@ -20,7 +20,7 @@
 - `DELETE{id}`: Deleta o objeto especificado pelo ID no corpo da requisição
 - `PUT{id}`: Atualiza o elemento relativo ao ID enviado no corpo da requisição
 
-# Resources
+# Rotas
 
 <p>/equipment_models</p>
 <p>/equipment_model_state_hourly_earnings</p>
