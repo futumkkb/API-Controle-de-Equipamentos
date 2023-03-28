@@ -10,7 +10,7 @@
 **Editar na primeira linha onde está escrito /estagiodb, substituir pelo nome do seu banco de dados**
 **Não se esqueça de alterar o login e a senha que estão nas linhas 2 e 3 respectivamente**
 
-#Rotas
+# Rotas
 
 <p>A api possui uma rota com todos os metodos http para cada entidade</p>
 
@@ -20,7 +20,7 @@
 - `DELETE{id}`: Deleta o objeto especificado pelo ID no corpo da requisição
 - `PUT{id}`: Atualiza o elemento relativo ao ID enviado no corpo da requisição
 
-#Resources
+# Resources
 
 <p>/equipment_models</p>
 <p>/equipment_model_state_hourly_earnings</p>
@@ -29,6 +29,6 @@
 <p>/equipment_state_history</p>
 <p>/equipment_states</p>
 
-#Exceções
+# Exceções
 
 <p>O projeto ainda possui exceções referentes a deletar ou atualizar objetos que não existem
